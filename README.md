@@ -1,4 +1,14 @@
-## Hi there 👋
+## Hello!
+
+Glad to see you stop by! By day, I'm a professional rectangle drawer (computer architecture engineer) and C# programmer. When not at my day job, I do embedded system HW/FW stuff, a fair bit of 3D CAD, and some occasional tool chain development for weird hardware (e.g. custom ISAs).
+
+- **Common languages**: C, C#, Rust, Python, various ASMs
+
+- **Less common**: JS, HTML, CSS, Perl, PHP, TCL, Spanish 😉
+
+📺 Pretty much my only social: [YouTube](https://www.youtube.com/@electronicstinkerer5429)
+
+🌐 Oh, and I have a website: [ZRCN.ORG](https://zrcn.org)
 
 <!--
 **ElectronicsTinkerer/ElectronicsTinkerer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
